@@ -39,7 +39,7 @@ const SocialLoginBtn = () => {
 
     return (
         <div>
-            <div className=" social-button-container w-50 mt-3">
+            <div className=" social-button-container w-50 mt-3 mb-5">
                 <div className="">
                     <img
                         onClick={handleGoogleLogin}
